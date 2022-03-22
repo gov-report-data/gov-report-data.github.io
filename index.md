@@ -45,5 +45,12 @@ GovReport
 GovReport-QS
 
 ```
-To appear at ACL 2022
+@misc{cao2022hibrids,
+      title={HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization}, 
+      author={Shuyang Cao and Lu Wang},
+      year={2022},
+      eprint={2203.10741},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
